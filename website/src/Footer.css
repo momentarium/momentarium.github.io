@@ -1,0 +1,43 @@
+/**************** FOOTER *****************/
+footer {
+    width:100%;
+    padding: 2rem 0;
+}
+footer .footer-content{
+    border-top: 1px solid #A9BBC9;
+    padding-top: 2rem;
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    color: #385E7D;
+}
+
+footer .footer-content .footer-logo {
+    height:30px;
+    margin-right: 60px;
+    width:110px;
+}
+
+footer .footer-content .footer-nav-links{
+    display:flex;
+    justify-content: flex-start;
+    flex:1;
+    height:20px;
+}
+
+footer .footer-content .footer-nav-links a{
+    color:inherit;
+    margin-right: 30px;
+    text-decoration: none;
+    opacity:0.4;
+    transition: opacity 0.5s;
+}
+
+footer .footer-content .footer-nav-links a:hover{
+    opacity:1;
+}
+
+footer .footer-copyright{
+    opacity:0.4;
+    height:20px;
+}
