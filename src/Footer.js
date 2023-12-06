@@ -7,7 +7,7 @@ const Footer = () => {
     <footer>
         <div class="wrapper footer-content">
             <div class="footer-copyright">
-                Edmonds, WA USA
+                Edmonds, WA USA 
             </div>
             <div class="footer-copyright">
                 © Momentarium LLC
