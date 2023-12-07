@@ -8,7 +8,7 @@ const TopMenu = () => {
       <div className="container">
         <a className="navbar-brand d-flex align-items-center" href="/">
           <img
-            src='Momentarium-Logo.png'
+            src={process.env.PUBLIC_URL + '/Momentarium-Logo.png'}
             alt="Momentarium Logo"
             className="mr-2"
             style={{ width: '30px', height: '30px', objectFit: 'cover' }}

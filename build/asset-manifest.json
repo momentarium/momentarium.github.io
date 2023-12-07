@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/momentarium.github.io/static/css/main.7d0f0e31.css",
-    "main.js": "/momentarium.github.io/static/js/main.eaff9610.js",
+    "main.js": "/momentarium.github.io/static/js/main.f22cfb89.js",
     "static/js/787.6284e33a.chunk.js": "/momentarium.github.io/static/js/787.6284e33a.chunk.js",
     "static/media/instagram.svg": "/momentarium.github.io/static/media/instagram.7a440ea8de1d0ea3203cb7f8440b6f8e.svg",
     "index.html": "/momentarium.github.io/index.html",
     "static/media/mail.svg": "/momentarium.github.io/static/media/mail.b2a8bdc6692ddcdb9d6d67aacd50ac8e.svg",
     "main.7d0f0e31.css.map": "/momentarium.github.io/static/css/main.7d0f0e31.css.map",
-    "main.eaff9610.js.map": "/momentarium.github.io/static/js/main.eaff9610.js.map",
+    "main.f22cfb89.js.map": "/momentarium.github.io/static/js/main.f22cfb89.js.map",
     "787.6284e33a.chunk.js.map": "/momentarium.github.io/static/js/787.6284e33a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d0f0e31.css",
-    "static/js/main.eaff9610.js"
+    "static/js/main.f22cfb89.js"
   ]
 }

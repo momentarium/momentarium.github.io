@@ -5,11 +5,11 @@ import './Footer.css'
 const Footer = () => {
   return (
     <footer>
-        <div class="wrapper footer-content">
-            <div class="footer-copyright">
+        <div className="wrapper footer-content">
+            <div className="footer-copyright">
                 Edmonds, WA USA 
             </div>
-            <div class="footer-copyright">
+            <div className="footer-copyright">
                 © Momentarium LLC
             </div>
         </div>
