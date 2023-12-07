@@ -1,8 +1,8 @@
 {
-  "name": "momentarium_website",
+  "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://momentarium.github.io/momentarium_website",
+  "homepage": "https://momentarium.github.io/website",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
